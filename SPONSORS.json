@@ -1,46 +1,30 @@
-[
+{
+  "content": null,
+  "embeds": [
     {
-        "embed": {
-            "description": "This is a youtube channel that provides high quality reddit content. Videos are uploaded regularly so you are never out of funny, interesting or even creepy content!",
-            "color": 15114050,
-            "footer": {
-                "icon_url": "https://i.imgur.com/fvNKUks.png",
-                "text": "I am a robot, son of Daniel (UK)"
-            },
-            "thumbnail": {
-                "url": "https://i.imgur.com/WyzaPKY.png"
-            },
-            "author": {
-                "name": "Sir Reddit",
-                "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
-                "icon_url": "https://i.imgur.com/WyzaPKY.png"
-            },
-            "fields": [
-                {
-                    "name": "Subscribe!",
-                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
-                },
-                {
-                    "name": "Discord Server!",
-                    "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
-                }
-            ]
+      "title": "Contactez <@!765635946539384882>, si il y a un problème.",
+      "color": null,
+      "fields": [
+        {
+          "name": "Commandes",
+          "value": "`?reply` - Répondre à un fil de discussion Modmail.\n\n`?areply` - Répondre à un fil de façon anonyme.\n\n`?close` - Fermez le thread actuel.\n\n`?contact` - Créez un fil avec un membre spécifié.\n\n`?delete` - Supprimez un message envoyé à l'aide de la commande de réponse ou d'une note.\n\n`?edit `- Modifiez un message qui a été envoyé à l'aide de la réponse ou d'une commande sans réponse.",
+          "inline": true
+        },
+        {
+          "name": "Commandes",
+          "value": "`?loglink` - Récupère le lien vers les journaux du thread actuel.\n\n`?logs` - Obtenez les journaux de threads Modmail précédents d'un membre.\n\n`?note` - Prenez note du sujet actuel.\n\n`?notify` - Avertissez un utilisateur ou un rôle lorsque le prochain message de thread a été reçu.\n\n`?repair `- Réparer un fil cassé par Discord.\n\n`?snippet `- Créez des messages prédéfinis à utiliser dans les threads.\n\n`?subscribe `- Avertissez un utilisateur, un rôle ou vous-même pour chaque message de discussion",
+          "inline": true
+        },
+        {
+          "name": "Commandes",
+          "value": "`?unnotify` - Désinformez un utilisateur, un rôle ou vous-même d'un thread.\n\n`?unsubscribe` - Désinscrivez un utilisateur, un rôle ou vous-même d'un fil.\n\n`?block` - Empêchez un utilisateur d'utiliser Modmail.\n\n`?blocked` - Récupérez une liste d'utilisateurs bloqués.\n\n`?move` - Déplacer un fil vers une autre catégorie.\n\n`?unblock` - Débloquez un utilisateur de l'utilisation de Modmail",
+          "inline": true
         }
-    },
-    {
-        "embed": {
-            "title": "Berkand Karadere",
-            "description": "Berkand Karadere is an German Community Manager who integrated new systems into the game industry. He also is hosting and developing web servers and game servers. He also plays American Football for the Dortmund Giants and his journey has just begun.",
-            "color": 2968248,
-            "thumbnail": {
-                "url": "https://i.imgur.com/cs2QEcp.png"
-            },
-            "fields": [
-                {
-                    "name": "Discord Server!",
-                    "value": "[**Click here**](https://discord.gg/BanCwptMJV)"
-                }
-            ]
-        }
+      ],
+      "author": {
+        "name": "Commandes Tickets."
+      }
     }
-]
+  ],
+  "avatar_url": "https://cdn.discordapp.com/icons/329623622819905546/aa0c19ef3bc3607262c11b69bad3a572.png?size=4096"
+}
